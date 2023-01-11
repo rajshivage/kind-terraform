@@ -5,6 +5,7 @@
 Terraform
 Docker
 Kind
+Kubectl
 ```
 
 #### Clone the repo
