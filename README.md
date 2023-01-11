@@ -2,7 +2,7 @@
 
 ### Clone the repo
 
-`git clone git@github.com:<username>/kind-terraform.git`
+`git clone [git@github.com:<username>/kind-terraform.git](https://github.com/rajshivage/kind-terraform.git)`
 
 ### Run below commands to build kind k8s cluster
 
