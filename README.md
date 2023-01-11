@@ -1,10 +1,17 @@
 ## kind-terraform
 
-### Clone the repo
+#### Prerequisites
+```
+Terraform
+Docker
+Kind
+```
+
+#### Clone the repo
 
 `git clone https://github.com/rajshivage/kind-terraform.git`
 
-### Run below commands to build kind k8s cluster
+#### Run below commands to build kind k8s cluster
 
 ```
 cd kind-terraform
